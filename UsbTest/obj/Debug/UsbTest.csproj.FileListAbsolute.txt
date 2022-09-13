@@ -1,0 +1,31 @@
+E:\USB\UsbTest\UsbTest\bin\Debug\UsbTest.exe.config
+E:\USB\UsbTest\UsbTest\bin\Debug\UsbTest.exe
+E:\USB\UsbTest\UsbTest\bin\Debug\UsbTest.pdb
+E:\USB\UsbTest\UsbTest\obj\Debug\UsbTest.csproj.AssemblyReference.cache
+E:\USB\UsbTest\UsbTest\obj\Debug\UsbTest.csproj.SuggestedBindingRedirects.cache
+E:\USB\UsbTest\UsbTest\obj\Debug\UsbTest.Form1.resources
+E:\USB\UsbTest\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+E:\USB\UsbTest\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.cache
+E:\USB\UsbTest\UsbTest\obj\Debug\UsbTest.csproj.CoreCompileInputs.cache
+E:\USB\UsbTest\UsbTest\obj\Debug\UsbTest.exe
+E:\USB\UsbTest\UsbTest\obj\Debug\UsbTest.pdb
+F:\MCU\GD32C103CB\GD32C103工具\UsbTest\UsbTest\bin\Debug\UsbTest.exe.config
+F:\MCU\GD32C103CB\GD32C103工具\UsbTest\UsbTest\bin\Debug\UsbTest.exe
+F:\MCU\GD32C103CB\GD32C103工具\UsbTest\UsbTest\bin\Debug\UsbTest.pdb
+F:\MCU\GD32C103CB\GD32C103工具\UsbTest\UsbTest\obj\Debug\UsbTest.Form1.resources
+F:\MCU\GD32C103CB\GD32C103工具\UsbTest\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+F:\MCU\GD32C103CB\GD32C103工具\UsbTest\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.cache
+F:\MCU\GD32C103CB\GD32C103工具\UsbTest\UsbTest\obj\Debug\UsbTest.csproj.CoreCompileInputs.cache
+F:\MCU\GD32C103CB\GD32C103工具\UsbTest\UsbTest\obj\Debug\UsbTest.exe
+F:\MCU\GD32C103CB\GD32C103工具\UsbTest\UsbTest\obj\Debug\UsbTest.pdb
+E:\MCU\GD32C103CB\V1.1\学习例子\VS 代码\UsbTest\UsbTest\bin\Debug\UsbTest.exe.config
+E:\MCU\GD32C103CB\V1.1\学习例子\VS 代码\UsbTest\UsbTest\bin\Debug\UsbTest.exe
+E:\MCU\GD32C103CB\V1.1\学习例子\VS 代码\UsbTest\UsbTest\bin\Debug\UsbTest.pdb
+E:\MCU\GD32C103CB\V1.1\学习例子\VS 代码\UsbTest\UsbTest\obj\Debug\UsbTest.csproj.AssemblyReference.cache
+E:\MCU\GD32C103CB\V1.1\学习例子\VS 代码\UsbTest\UsbTest\obj\Debug\UsbTest.csproj.SuggestedBindingRedirects.cache
+E:\MCU\GD32C103CB\V1.1\学习例子\VS 代码\UsbTest\UsbTest\obj\Debug\UsbTest.Properties.Resources.resources
+E:\MCU\GD32C103CB\V1.1\学习例子\VS 代码\UsbTest\UsbTest\obj\Debug\UsbTest.csproj.GenerateResource.cache
+E:\MCU\GD32C103CB\V1.1\学习例子\VS 代码\UsbTest\UsbTest\obj\Debug\UsbTest.csproj.CoreCompileInputs.cache
+E:\MCU\GD32C103CB\V1.1\学习例子\VS 代码\UsbTest\UsbTest\obj\Debug\UsbTest.exe
+E:\MCU\GD32C103CB\V1.1\学习例子\VS 代码\UsbTest\UsbTest\obj\Debug\UsbTest.pdb
+E:\MCU\GD32C103CB\V1.1\学习例子\VS 代码\UsbTest\UsbTest\obj\Debug\UsbTest.UsbSpeed.resources
